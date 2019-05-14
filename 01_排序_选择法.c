@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-//—°‘Ò∑® ºŸ…Ë∑®
+//ÈÄâÊã©Ê≥ï ÂÅáËÆæÊ≥ï
 int main(int argc,char *argv[])
 {
 	int arr[10],i,j,tmp;
@@ -19,7 +19,7 @@ int main(int argc,char *argv[])
 		{
 			if(arr[i] > arr[j])
 			{
-				//Ωªªª
+				//‰∫§Êç¢
 				tmp = arr[i];
 				arr[i] = arr[j];
 				arr[j] = tmp;
